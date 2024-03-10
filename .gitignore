@@ -1,0 +1,26 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore local configuration files
+config.ini
+
+# Ignore sensitive or generated files
+secrets.json
+generated_files/
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore dependency management files
+pip-lock.txt
